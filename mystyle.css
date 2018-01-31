@@ -1,6 +1,13 @@
 p{
   color: blue;
+  font-size: 20px;
+  text-indent: 10px;
 }
-.special{
+p.foo{
   color: red;
+}
+ul{
+  color: pink;
+  height: 50%;
+  border-style: solid;
 }
