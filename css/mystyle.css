@@ -1,0 +1,84 @@
+body{
+  background-image: url(../img/placeholder.png);
+  margin: auto;
+  background-color: gray;
+  background-size: 100% 50%;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+li{
+  list-style: none;
+  float: left;
+  font-family: sans-serif;
+  font-size: 20px;
+  margin-left: 40px;
+  padding-top: 15px;
+}
+
+.container{
+  width: 1250px;
+  margin: 0 auto;
+}
+
+.header{
+  background: green;
+  width: 100%;
+  top: 0;
+  position: fixed;
+}
+
+.logo{
+  float: left;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+.nav{
+  float: right;
+}
+
+.container2{
+  width: 960px;
+  margin: 0 auto;
+  padding-top: 200px;
+}
+
+.statement{
+  width: 960px;
+  float: left;
+  font-family: sans-serif;
+  font-size: 30px;
+}
+
+.about{
+  float: left;
+  font-size: 20px;
+}
+
+.container3{
+  width: 960px;
+  margin: 0 auto;
+}
+
+.portfolio{
+  text-align: center;
+  padding-top: 500px;
+  position: inherit;
+}
+
+.projects{
+  float: right;
+  margin-left: 40px;
+  padding-top: 600px;
+}
+
+img{
+  max-width: 15%;
+  max-height: 15%;
+}
