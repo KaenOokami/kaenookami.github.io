@@ -1,10 +1,14 @@
-body{
+html{
   background-image: url(../img/placeholder.png);
-  margin: auto;
-  background-color: gray;
-  background-size: 100% 50%;
-  background-repeat: no-repeat;
   background-position: top;
+  background-repeat: no-repeat;
+  background-size: 100% 55%;
+  -webkit-background-size: 100% 55%;
+  -moz-background-size: 100% 55%;
+  -o-background-size: 100% 55%;
+}
+body{
+  margin: auto;
 }
 
 a{
